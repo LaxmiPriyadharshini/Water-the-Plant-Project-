@@ -16,11 +16,6 @@ Describe your project
 == Step 1: Installation
 Please describe the steps to install this project.
 The main aim of this hands on project is to build a simple device that tells you when to water a plant. Wiring together and writing code for an Arduino, LEDs, moisture sensor, and Bluetooth module. The moisture sensors are used to measure the current moisture of the pot and are reported. My future plan, maybe over the upcoming weekends, is to extend the project to send notifications to mobile based on the moisture reading on when to water the plant.
-For example:
-
-1. Open this file
-2. Edit as you like
-3. Release to the World
 
 == Step 2: Assemble the circuit
 
@@ -33,13 +28,13 @@ Upload the code contained in this sketch on to your board
 
 === Folder structure
 
-....
- sketch123                => Arduino sketch folder
-  ├── sketch123.ino       => main Arduino file
-  ├── schematics.png      => (optional) an image of the required schematics
+
+ Watermyplant                => Arduino sketch folder
+  ├── watermyplant_vx.x.ino       => main Arduino file
+  ├── schematic.png      => (optional) an image of the required schematics
   ├── layout.png          => (optional) an image of the layout
   └── ReadMe.adoc         => this file
-....
+
 
 
 === Contributing
