@@ -1,7 +1,7 @@
-﻿:Author: Laxmipriyadharshini
-:Email: Laxmipriyadharshini@gmail.com
-:Date: 02/10/2019
-:Revision: v1.2
+﻿#Author: Laxmipriyadharshini
+#Email: Laxmipriyadharshini@gmail.com
+#Date: 02/10/2019
+#Revision: v1.2
 /*----------- Configuration Management -------------
 v1.0 Basic arduino Circuit connection and setup
 V1.1 Setting up LED
